@@ -4,11 +4,10 @@
   </a>
 </p>
 <h1 align="center">
-  Developer Portfolio:
+  Developer Portfolio
 </h1>
-<h3>Gill Guimaraes</h3>
 
-## 🚀 Quick start
+## 🚀 Gill Guimaraes
 
 1.  **Create a Gatsby site.**
 
